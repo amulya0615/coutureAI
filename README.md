@@ -2,6 +2,10 @@
 
 CoutureAl is a cutting-edge application designed to empower users to visualize their unique clothing ideas through realistic image generation. By leveraging the Stable Diffusion pipeline, CoutureAl allows users to input detailed descriptions of their envisioned outfits and receive high-quality images that bring their fashion dreams to life.
 
+## Model and Dataset Used
+- Stable Diffusion: https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5
+- Dataset: https://huggingface.co/datasets/Marqo/deepfashion-inshop
+
 ## Features
 
 - **User-Friendly Interface**: Built with Streamlit, the application provides an intuitive interface for users to enter clothing descriptions.
@@ -15,7 +19,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/amulya0615/coutureAI.git
    cd coutureal
    ```
 
