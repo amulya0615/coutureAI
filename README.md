@@ -11,8 +11,10 @@ CoutureAl is a cutting-edge application designed to empower users to visualize t
 ## Working Screens
 
 ![Uploading Screenshot (754).png…]()
-![Screenshot (756)](https://github.com/user-attachments/assets/1217df03-a776-4b2e-9bab-18b2ec4e5867)
-![Screenshot (755)](https://github.com/user-attachments/assets/a27cdbc8-1326-4542-ab9c-aecdf465266a)
+![Uploading Screenshot (755).png…]()
+![Uploading Screenshot (756).png…]()
+
+
 
 
 
