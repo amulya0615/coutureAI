@@ -6,6 +6,16 @@ CoutureAl is a cutting-edge application designed to empower users to visualize t
 - Stable Diffusion: https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5
 - Dataset: https://huggingface.co/datasets/Marqo/deepfashion-inshop
 
+## Demo Video
+
+## Working Screens
+![Screenshot (756)](https://github.com/user-attachments/assets/4e9f1287-da4b-49ef-8063-68e78ff34e31)
+![Screenshot (756)](https://github.com/user-attachments/assets/1217df03-a776-4b2e-9bab-18b2ec4e5867)
+![Screenshot (755)](https://github.com/user-attachments/assets/a27cdbc8-1326-4542-ab9c-aecdf465266a)
+
+
+
+
 ## Features
 
 - **User-Friendly Interface**: Built with Streamlit, the application provides an intuitive interface for users to enter clothing descriptions.
