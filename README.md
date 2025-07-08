@@ -1,6 +1,6 @@
 # CoutureAl: Clothing Image Generator Using Stable Diffusion Pipeline
 
-CoutureAl is a cutting-edge application designed to empower users to visualize their unique clothing ideas through realistic image generation. By leveraging the Stable Diffusion pipeline, CoutureAl allows users to input detailed descriptions of their envisioned outfits and receive high-quality images that bring their fashion dreams to life.
+CoutureAI is a fashion-tech application designed to transform personalized clothing descriptions into realistic visual designs using state-of-the-art generative AI. Powered by the Stable Diffusion pipeline, CoutureAI empowers users to experiment with their creativity in fashion by generating high-quality outfit images from natural language inputs.
 
 ## Model and Dataset Used
 - Stable Diffusion: https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5
@@ -21,10 +21,12 @@ CoutureAl is a cutting-edge application designed to empower users to visualize t
 
 ## Features
 
-- **User-Friendly Interface**: Built with Streamlit, the application provides an intuitive interface for users to enter clothing descriptions.
-- **Image Generation**: Utilizes the Stable Diffusion model to generate realistic images based on user-defined clothing styles.
-- **Customization**: Users can describe various aspects of clothing, including color, fabric, style, and additional features, to create personalized designs.
-- **Product Recommendations**: Based on your prompts it'll fetch the products from the google shopping and recommends that products. 
+- **User-Friendly Interface**: Built using Streamlit, the application offers an intuitive platform for users to enter detailed clothing descriptions.
+- **Natural Language to Fashion Design**: Allows users to generate custom clothing visuals simply by describing them in everyday language.
+- **Image Generation**: Utilizes the Stable Diffusion v1.5 model for high-quality, photorealistic image outputs based on user-defined styles.
+- **Customization**: Users can specify attributes such as color, fabric, cut, accessories, and other design elements for personalized outputs.
+- **Dataset Integration**: Based on the [DeepFashion In-Shop dataset](https://huggingface.co/datasets/Marqo/deepfashion-inshop), ensuring model output reflects current fashion trends.
+- **Product Recommendations**: After image generation, the application fetches and recommends real-world products using Google Shopping based on the user’s prompt. 
 
 ## Installation
 
@@ -48,10 +50,11 @@ To set up the project, follow these steps:
 
 ## Usage
 
-1. Open the application in your web browser.
-2. Enter a detailed description of the clothing item you wish to visualize.
-3. Click on the "Generate" button to create an image of your custom design.
-4. Review the generated image and make adjustments to your description as needed.
+1. Launch the app in your browser.
+2. Enter a detailed clothing description (e.g., "a denim jacket with floral embroidery and silver buttons").
+3. Click "Generate" to see your design.
+4. Review the image and view product suggestions.
+5. Modify and iterate as needed.
 
 ## License
 
